@@ -1,5 +1,5 @@
 
-[![MasterHead](https://programacionymas.com/images/tutoriales/frontend-vs-backend.jpg)](https://rishavchanda.io)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate mobile developer from Las palmas De Gran Canaria</h3>
 
