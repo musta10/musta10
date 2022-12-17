@@ -1,5 +1,5 @@
 
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)](https://rishavchanda.io)
+[![MasterHead](https://programacionymas.com/images/tutoriales/frontend-vs-backend.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm mustafa</h1>
 <h3 align="center">A passionate mobile developer from Las palmas De Gran Canaria</h3>
 
