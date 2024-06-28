@@ -13,7 +13,7 @@
 
 - 🤝 I did 2 months of intensive training in Kotlin by SPEGC( from September 2022 - November 2022) **courses**
 
-- 💬 Ask me about **Android and Kotlin API**
+- 💬 Ask me about ** React, Android and Kotlin API**
 
 - 📫 How to reach me **mustafaenfadal@gmail.com**
 
